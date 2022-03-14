@@ -286,7 +286,7 @@ SdFile file;
 #endif
 
 #define  MAX_MEM_HANDLERS     32
-
+#define  NES_SCREEN_WIDTH     256
 #define DEFAULT_WIDTH NES_SCREEN_WIDTH
 #define DEFAULT_HEIGHT NES_VISIBLE_HEIGHT
 
